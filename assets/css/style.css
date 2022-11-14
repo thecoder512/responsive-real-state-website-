@@ -452,7 +452,7 @@ body.dark-theme{
     grid-template-columns: 2fr 2fr;
     gap: 2rem 1rem;
     padding-top: 2rem;
-    /* place-items: center; */
+    place-items: center;
 }
 
 .logos__img img{

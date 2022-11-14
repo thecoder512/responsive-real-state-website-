@@ -136,17 +136,6 @@ sr.reveal('.home__description, .section__title, .footer__info', { delay: 500 })
 sr.reveal('.search__box', { delay: 600 })
 sr.reveal('.value__box', { delay: 700 })
 sr.reveal('.home__imgages', { delay: 800, origin:'bottom'})
-sr.reveal('.logos__img', {interval: 100})
+// sr.reveal('.logos__img', {interval: 100})
 sr.reveal('.value__images, .contact__content', {origin: 'left'})
 sr.reveal('.value__content, .contact__images', {origin: 'right'})
-
-
-
-
-
-
-// ScrollReveal({ reset: true });
-
-// ScrollReveal().reveal('.home__title');
-// ScrollReveal().reveal('.home__description', { delay: 500 });
-// ScrollReveal().reveal('.value__box', { delay: 2000 });
