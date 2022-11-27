@@ -4,4 +4,5 @@
 have the both themes dark and light
 
 ![Screen Shot 2022-11-16 at 09 18 39](https://user-images.githubusercontent.com/108896341/204130479-f31758da-f746-495f-9cb6-7fa54a5b0fcf.png)
-![Uploading Screen Shot 2022-11-16 at 09.20.06.png…]()
+
+![Screen Shot 2022-11-16 at 09 20 06](https://user-images.githubusercontent.com/108896341/204130556-278dcec5-a6c4-48f2-a93e-23812922ec34.png)
